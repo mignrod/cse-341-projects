@@ -1,0 +1,19 @@
+{
+  "name": "cse-341-projects",
+  "version": "1.0.0",
+  "description": "CSE 341 projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mignrod/cse-341-projects.git"
+  },
+  "author": "Miguelangel Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mignrod/cse-341-projects/issues"
+  },
+  "homepage": "https://github.com/mignrod/cse-341-projects#readme"
+}
